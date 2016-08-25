@@ -225,4 +225,4 @@
     }
   }
 
-})(typeof exports != 'undefined' && typeof global != 'undefined' ? global : window );
+})(this);
